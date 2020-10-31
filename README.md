@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey! (*・ω・)ﾉ 
+### I'm SFR.
+- *Arch Linux* user
+- Privacy advocate
+- He/him
 
-<!--
-**SFR-git/SFR-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I know:**
+- POSIX shell / bash
+- a tiny bit of JS
+- basic Python
+- mcfunction
 
-Here are some ideas to get you started:
+**I'm currently learning**
+- Java
+- Assembler (TASM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm up for**
+- Cool projects with POSIX shell or Minecraft
+
+You can find me on [reddit](https://old.reddit.com/u/sfrvtma), on [GitLab](https://gitlab.com/SFR-git) and on [Bitbucket](https://bitbucket.org/SFR-git).
+Mail me at `inquiries at sfr dot anonaddy dot com`
