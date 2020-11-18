@@ -2,7 +2,7 @@
 ### I'm SFR.
 - *Arch Linux* user
 - Privacy advocate
-- He/him
+- He/him/they/them
 
 **I know:**
 - POSIX shell / bash
