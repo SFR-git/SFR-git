@@ -7,7 +7,7 @@
 
 **I know:**
 - POSIX shell / bash
-- a tiny bit of JS
+- JavaScript
 - basic Python
 - mcfunction
 
