@@ -11,6 +11,10 @@
 - basic Python
 - mcfunction
 
+**Currently working on**
+- [Stonecutter](https://github.com/3174N/stonecutter-electron), an IDE for Minecraft datapacks and functions
+- Polishing [tasm-terminal](https://github.com/SFR-git/tasm-terminal) to make it *actually usable*
+
 **I'm currently learning**
 - Java
 - Assembler (TASM)
