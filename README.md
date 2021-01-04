@@ -17,7 +17,6 @@
 
 **I'm currently learning**
 - Java
-- Assembler (TASM)
 
 **I'm up for**
 - Cool projects with POSIX shell or Minecraft
