@@ -1,9 +1,9 @@
 ### Hey! (*・ω・)ﾉ 
-### I'm SFR.
+### I'm Sol.
 - *Arch Linux* user
 - Privacy advocate
 - He/him/they/them
-- [sfr.moe](https://sfr.moe)
+- [solfisher.com](https://solfisher.com)
 
 **I know:**
 - POSIX shell / bash
